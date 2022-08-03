@@ -9,14 +9,6 @@ body, html{
 h2 {
     letter-spacing: 8px;
 }
-.navbar{
-    background-color:#24478f ;
-    position: fixed;
-    width: 100%;
-    height: 50px;
-    
-}
-
 
 img {
     max-width: 100%;
@@ -60,119 +52,6 @@ img {
     background-attachment: fixed;
     text-align: center;
     width: 100%;
-
-}
-.text-centerIcons{
-    width: 30px;
-}
-
-#cover a{
-    color: beige;
-}
-
-#cover-caption{
-    width: 100%;
-}
-
-#cover a{
-    background-image: linear-gradient(beige, beige);
-    background-size: 0 5px, auto;
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    transition: all .2s ease-out;
-}
-
-#cover a:hover{
-    background-size: 100% 5px, auto;
-}
-
-.section-content{
-    padding: 5rem 0;
-}
-
-#about {
-    background: bottom center no-repeat;
-    background-size: cover;
-}
-
-#about .about-text{
-    background: rgba(169, 142, 9, 0);
-    color: beige;
-    padding: 1.8575rem;
-}
-
-#about h3{
-    padding: 1rem;
-}
-/* skills */
-#experience {
-    padding: 40px;
-    color: beige;
-    background: url(./img/content_bg.jpg) center center no-repeat;
-
-
-}
-
-#experience h2{
-    letter-spacing: 5px;
-}
-
-/* projects */
-
-#projects .card-deck{
-    padding:40px;
-;
-}
-
-.card-title{
-    color: black;
-}
-.card-text{
-    color: black;
-}
-
-.card-titleTwo{
-    color: black;
-}
-.card-textTwo{
-    color: black;
-}
-
-.card-titleThree{
-    color: black;
-}
-
-.card-textThree{
-    color: black;
-}
-
-#projects h2{
-    letter-spacing: 5px;
-    color: beige;
-}
-
-#projects a {
-    background-image: linear-gradient(beige, beige);
-    background-size: 0 5px, auto;
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    transition: all .2s ease-out;
-}
-
-#projects a:hover{
-    background-size: 100% 5px, auto;
-}
-
-#projects button {
-    background-image: linear-gradient(beige, beige);
-    background-size: 0 5px, auto;
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    transition: all .2s ease-out;
-}
-
-#projects button:hover{
-    background-size: 100% 5px, auto;
 }
 
 /* footer */
